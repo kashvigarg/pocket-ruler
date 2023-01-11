@@ -8,11 +8,11 @@
         android:title="Ruler"
         app:showAsAction="ifRoom" />
 
-    <item
-        android:id="@+id/measure"
-        android:icon="@drawable/ic_ruler"
-        android:title="Ruler"
-        app:showAsAction="ifRoom"/>
+<!--    <item-->
+<!--        android:id="@+id/measure"-->
+<!--        android:icon="@drawable/ic_ruler"-->
+<!--        android:title="Ruler"-->
+<!--        app:showAsAction="ifRoom"/>-->
 
 
 </menu>
